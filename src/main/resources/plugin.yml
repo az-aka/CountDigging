@@ -1,0 +1,4 @@
+name: CountDigging
+version: '${project.version}'
+main: countdigging.countdigging.CountDigging
+api-version: 1.19
